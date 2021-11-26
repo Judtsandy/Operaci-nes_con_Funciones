@@ -1,10 +1,12 @@
 % octave.script.2.7_EjemploMultiplicacion
 % Escuela:               Tecnologico de Estudios Superiores de Jilotepec
 % Carrera:               Ingenieria en Sistemas Computacionales
-% Titulo:                Operaciones con funciones: adicci髇, multiplicaci髇,
-%                        divisi髇 y composici髇.
+% Titulo:                Operaciones con funciones: adicci贸n, multiplicaci贸n,
+%                        divisi贸n y composici贸n.
 % Descripcion:           Ejemplos de operaciones en las funciones
 % Autor:                 Equipo Muerte Matematica
+%Integrante:             Fernando Jesus Paredes Mart铆nez
+%Matricula:               202123322
 % Fecha:                 25 de Noviembre del 2021
 % Version:               1
 % Notas:                 Requiere symbolic
