@@ -1,14 +1,15 @@
-% octave.script.2.7_EjemploAdicion
-% Escuela:               Tecnologico de Estudios Superiores de Jilotepec
-% Carrera:               Ingenieria en Sistemas Computacionales
-% Titulo:                Operaciones con funciones: adicci髇, multiplicaci髇,
-%                        divisi髇 y composici髇.
-% Descripcion:           Ejemplos de operaciones en las funciones
-% Autor:                 Equipo Muerte Matematica
-% Fecha:                 25 de Noviembre del 2021
-% Version:               1
-% Notas:                 Requiere symbolic
-% 2_7_EjemploAdicion
+%octave.script.2.7_EjemploAdicion
+%Escuela:               Tecnologico de Estudios Superiores de Jilotepec
+%Carrera:               Ingenieria en Sistemas Computacionales
+%Titulo:                Operaciones con funciones: adicci贸n, multiplicaci贸n,
+%                       Divisi贸n y composici贸n.
+%Descripcion:           Ejemplos de operaciones en las funciones
+%Autor:                 Equipo Muerte Matematica
+%Integrantes:           Lorena Garc铆a Garc铆a, Matricula 202123044
+%Fecha:                 25 de Noviembre del 2021
+%Version:               1
+%Notas:                 Requiere symbolic
+%2_7_EjemploAdicion
 
 %Limpiar varibles 
 clear 
