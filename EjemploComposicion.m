@@ -6,6 +6,7 @@
 % Descripcion:           Ejemplos de operaciones en las funciones
 % Autor:                 Equipo Muerte Matematica
 %                        Debora Alejandra Garcia Cruz
+%                        Lorena García García, Matricula 202123044
 % Fecha:                 25 de Noviembre del 2021
 % Version:               1
 % Notas:                 Requiere symbolic
